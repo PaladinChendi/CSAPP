@@ -25,7 +25,7 @@ void show_pointer(void *x) {
 int main() {
     double d = 1.5;
     show_int(1);//0x00000001
-    show_float(1.5);//0x3e800000
+    show_float(1.5);//0x3fc00000
     show_pointer(&d);
     return 0;
 }
