@@ -22,12 +22,14 @@ void *basic_memset2(void *s, int c, size_t n) {
     
     unsigned char *schar = (unsigned char *)s;
 
-    size_t m = (size_t) schar % k;
-    for (size_t i = 0; i < m; i++)
+    size_t i = 0;
+    for (; i < n; i++)
     {
+        if ((size_t) schar % k == 0)
+            break;
         *schar++ = (unsigned char ) c;
     }
-    n = n - m;
+    n = n - i;
 
     size_t cnt = 0;
     size_t limit = n >= k ? n - k + 1 : 0;
