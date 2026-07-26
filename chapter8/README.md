@@ -25,13 +25,8 @@
 | 8-19 | `.md` | [8-19.md](./8-19.md) |
 | 8-20 | `.md` | [8-20.md](./8-20.md) |
 | 8-21 | `.md` | [8-21.md](./8-21.md) |
-| 8-22 | `.md` | [8-22..md](./8-22..md) |
+| 8-22 | `.md` | [8-22.md](./8-22.md) |
 | 8-23 | `.md` | [8-23.md](./8-23.md) |
 | 8-24 | `.md` | [8-24.md](./8-24.md) |
 | 8-25 | `.md` | [8-25.md](./8-25.md) |
 | 8-26 | `.md` | [8-26.md](./8-26.md) |
-
-## Notes / 说明
-
-- Problem **8-22** is stored in a file named `8-22..md` (a literal double dot in the stem, kept for historical compatibility). The link above resolves correctly on GitHub.
-- 题目 **8-22** 的文件名为 `8-22..md`（文件名主干中含一个字面双点，出于历史兼容予以保留）。上方链接在 GitHub 上可正常访问。
