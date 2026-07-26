@@ -74,6 +74,10 @@
 
 本仓库基于 **MIT 协议**授权——详见 [LICENSE](./LICENSE)。各解答笔记仍归其原作者所有，并依据 MIT 协议再分发。
 
+## 💖 赞助
+
+如果这些笔记对你有帮助，欢迎在 **[GitHub Sponsors](https://github.com/sponsors/PaladinChendi)** 赞助维护者 ❤️——你的支持能让笔记持续保持双语、勘误与免费开放。（赞助完全自愿；无论是否赞助，本仓库始终保持 MIT 协议、免费可用。）
+
 ## 🔗 参考资料
 
 - 教材配套网站：<http://csapp.cs.cmu.edu/>

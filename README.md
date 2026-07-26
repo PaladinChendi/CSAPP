@@ -72,6 +72,10 @@ Please keep improvements **additive**: prefer correcting mistakes and adding exp
 
 Licensed under the **MIT License** — see [LICENSE](./LICENSE). The solution notes remain the work of their respective authors and are redistributed under MIT.
 
+## 💖 Sponsor
+
+If these notes helped you, consider sponsoring the maintainer on **[GitHub Sponsors](https://github.com/sponsors/PaladinChendi)** ❤️ — every bit keeps the notes bilingual, corrected, and freely available. (Sponsoring is entirely optional; the repo stays MIT-licensed and free regardless.)
+
 ## 🔗 References
 
 - Textbook companion site: <http://csapp.cs.cmu.edu/>
