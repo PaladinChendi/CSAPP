@@ -1,0 +1,23 @@
+# C / C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+core
+*.dSYM/
+*.su
+
+# Local build / output directories
+build/
+dist/
+
+# Editor / IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Operating systems
+.DS_Store
+Thumbs.db
